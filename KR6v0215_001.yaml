@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR6v0215/i/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之一碑陰伏香寶顯寶照光三人一心侍佛王小金妻齊主令狐俱賈磨女部熙平二年太歲在丁酉三月丙酉朔日壬戌比丘劉僧真少道門志於外纍劫之苦有在緣以臨高照之隆並四時樂逾天宮供施精巖使外万路歸道俗恭連車蓋匹興逮上為皇帝延綿師僧先妣造石像一軀興福以志願皇帝隆綿師僧父母朗朗與三光並暈覆則與乾晨同下為四部道俗欽明核業藏潤宿信彌樂敬崇三寶智龍天任皓皇朝有類氏人女外渡四礙除充主公郡想競業疇延室家和望衆陳天算正始智然合邑子等閻石記念永世留名為恐事記願登覽首未來世中彌勒三會等蓋願願從心三有群生普同成佛邑主邑主唯那梁邑正張邑正張寺主令唯那張唯那張唯那唯那鮮唯那邑子侯邑子之二碑陽司徒文成劉光之妻張醜女劉劉買陵劉僧業張返富張醜郎張連道常阿娥張外仁妻常道興妻保姜張阿族張保明之三碑側光明主天院封呈歸封王
+  hash: sha256:cb542a463b7a1fa87a8f200d560aa1118427f83ca4244512b52999def53f1476
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 比丘劉僧真等造像記, id: KR6v0215_I_001-juan-start, juan_n: '001', jhead: 比丘劉僧真等造像記}
+  - {type: 其他, offset: 0, content: 之一　碑陰, id: KR6v0215_I_001-mulu-1, level: '1'}
+  - {type: 其他, offset: 271, content: 之二　碑陽, id: KR6v0215_I_001-mulu-2, level: '1'}
+  - {type: 其他, offset: 321, content: 之三　碑側, id: KR6v0215_I_001-mulu-3, level: '1'}
+metadata:
+  title: 比丘劉僧真等造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0016.xml
+    old_id: I01n0016
+hash: sha256:c5dd147da4bfd797d482e80f4386b241785285f9748953bd2b00128d015b39d9

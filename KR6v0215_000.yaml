@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0215/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 比丘劉僧真等造像記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0016.xml
+    old_id: I01n0016
+hash: sha256:b3b13030ed4f5853ff6f561b58950c00bc536c58e91757e8341049c4dbfb8dc9

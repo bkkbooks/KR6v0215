@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6v0215/I/v1
+canonical_location: https://kanripo.org/bkk/KR6v0215/I/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 比丘劉僧真等造像記
+  identifiers:
+    krp: KR6v0215
+    cbeta: I01n0016
+    cbeta_old_id: I01n0016
+    authorityid: CA0008151
+    json_key: I0016
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0016.xml
+    old_id: I01n0016
+  edition:
+    short: I
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0215_000-I.yaml, hash: 'sha256:b3b13030ed4f5853ff6f561b58950c00bc536c58e91757e8341049c4dbfb8dc9'}
+  - {seq: 1, filename: KR6v0215_001-I.yaml, hash: 'sha256:f43d152e2787324b09d87a01aee856c2141a28ff22e631deed643147f2e7b90a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0215_000-I.markers.yaml, hash: 'sha256:29072022086dbacca5ac07a15bc0aa0144acc8bf3252625d1bf49d2444d85105'}
+  - {seq: 1, role: markers, filename: assets/KR6v0215_001-I.markers.yaml, hash: 'sha256:26179c8cbf646e2d869e4ee9474cbc7013b3b80b559b033d434b282481a6110e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0215_I_001-juan-start
+    span:
+    - body
+    - 0
+    - 335
+  label: 比丘劉僧真等造像記
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0215_I_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 之一　碑陰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0215_I_001-mulu-2
+    span:
+    - body
+    - 271
+    - 271
+  label: 之二　碑陽
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0215_I_001-mulu-3
+    span:
+    - body
+    - 321
+    - 321
+  label: 之三　碑側
+  type: mulu
+  level: 1
+hash: sha256:e17a26ea5486d8036e27599e473ce8fc9585502c6a183f836df886e3d03d4358
