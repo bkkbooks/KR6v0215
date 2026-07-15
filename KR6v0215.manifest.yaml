@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0215/v1
 canonical_location: https://kanripo.org/bkk/KR6v0215/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 比丘劉僧真等造像記
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0215_000.yaml, hash: 'sha256:b3b13030ed4f5853ff6f561b58950c00bc536c58e91757e8341049c4dbfb8dc9'}
-  - {seq: 1, filename: KR6v0215_001.yaml, hash: 'sha256:f43d152e2787324b09d87a01aee856c2141a28ff22e631deed643147f2e7b90a'}
+  - {seq: 1, filename: KR6v0215_001.yaml, hash: 'sha256:9713bf6f93dd238ae04c6210802fc697d6f69ad15e6261f810517c2f1b8a8238'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6v0215_000.markers.yaml, hash: 'sha256:b687c7e4b70b4a3c737a65241f7c3c7bc6a4c8b2549e14d253889a5895a76507'}
-  - {seq: 1, role: markers, filename: assets/KR6v0215_001.markers.yaml, hash: 'sha256:7b47107e1aca027ca2dc872da01841e9e4b7128a5a6213e78c6d6e08e00652ae'}
+  - {seq: 1, role: markers, filename: assets/KR6v0215_001.markers.yaml, hash: 'sha256:3f36172475cd9497827e7cc950a7afc10b1798dcd2a78c576467b64609d53923'}
 table_of_contents:
 - ref:
     seq: 1
@@ -67,4 +67,7 @@ table_of_contents:
   label: 之三　碑側
   type: mulu
   level: 1
-hash: sha256:1f6ccb7c8f4eb7d738cb595244334406a5c0eda488cd059db25fb05798452618
+hash: sha256:d8860dbf7211ee109e35587f799a13d20dcd04426a4598b5a3dab7fea1a017c3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
